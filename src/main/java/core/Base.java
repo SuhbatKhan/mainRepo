@@ -14,6 +14,7 @@ public class Base {
 	public static Properties properties;
 	
 	// this is test commit
+	// this is testone 
 
 	// propertiesPath will return user directory of user.
 	// C:\Users\SDET\Desktop\SDET_WS\com.bdd.tekschool\src\test\resources\Properties\ProjectProperty.properties
